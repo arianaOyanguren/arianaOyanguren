@@ -83,7 +83,3 @@ Designed and implemented a **roommate expense management application** using **M
 
 ---
 
-<p align="center">
-🌸 <em>Clean code, thoughtful design, and continuous learning.</em>
-</p>
-
