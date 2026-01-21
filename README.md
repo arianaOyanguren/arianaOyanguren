@@ -5,8 +5,6 @@
 
 <p align="center">
 📍 Toronto, Canada  
-<br/>
-💡 <em>"If you can dream it, you can do it."</em>
 </p>
 
 <p align="center">
