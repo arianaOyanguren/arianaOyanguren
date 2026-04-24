@@ -74,9 +74,11 @@ Developed a **reporting and tracking system** using **HTML, CSS, and JavaScript*
 Designed and implemented a **roommate expense management application** using **MVC architecture**, enabling bill splitting, payment tracking, automated reminders, and monthly settle-up calculations.
 
 ---
+
 ### 🐍 PLLM+: Automated Python Dependency Repair Agent
 🔗 [https://github.com/vpoweska/fse-aiware-python-dependencies](https://github.com/vpoweska/fse-aiware-python-dependencies)
 Designed and implemented an **agentic dependency repair pipeline** using **LangGraph and multi-agent LLM reasoning**, achieving a 51.9% success rate across 2,891 real-world Python snippets — 5.1× faster than the baseline system.
+
 ---
 
 ## 🌍 Languages
